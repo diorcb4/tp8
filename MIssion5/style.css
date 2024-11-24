@@ -1,0 +1,74 @@
+body{
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: blue;
+}
+.en_tete{
+    overflow: hidden;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+.info{
+    margin-left: 15%;
+    float: left;
+}
+.dior{
+    height: 30%;
+    width: 20%;
+    float: right;
+    margin-right: 15%;
+    padding: 1%;
+}
+.date_de_naissance{
+    color: black;
+    font-weight: bold;
+}
+.block2{
+    clear: both;
+}
+.séparation{
+    color: black;
+    clear: both;
+    width: 75%;
+    border-top: 8px solid #000;
+    border-radius: 5px;
+}
+.titre_hr{
+    color: aliceblue;
+    clear: both;
+    width: 75%;
+}
+.titre{
+    margin-left: 15%;
+    font-weight: bold;
+}
+.date{
+    margin-left: 15%;
+    float: left;
+    font-weight: bold;
+}
+.paragraphe1{
+    float: right;
+    margin-right: 15%;
+}
+.paragraphe2{
+    float: right;
+    margin-right: 22%;
+}
+.paragraphe3{
+    float: right;
+    margin-right: 26%;  
+}
+.content{
+    border-style: groove;
+    border: solid;
+    border-color: #000;
+    margin-left: 10%;
+    height: 1300px;
+    width: 1000px;
+    background-color: aqua;
+}
